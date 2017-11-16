@@ -156,8 +156,9 @@ bin
 
 *.db
 
+6)查看本地config配置的方法
+git config --list
  
-
  
 
 三、 Git 命令详解
